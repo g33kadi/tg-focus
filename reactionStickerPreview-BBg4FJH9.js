@@ -1,3 +1,0 @@
-//# allFunctionsCalledOnLoad
-import{Ut as e}from"./apiManagerProxy-BmwaQeCv.js";import{f as t,s as n}from"./solid-Beq2bZCx.js";import{fo as r}from"./buttonMenu-aP2_q7E_.js";function i(i){return t(r.Media,{size:`small`,get children(){return t(n,{get when(){return i.sticker},children:n=>t(e,{get sticker(){return n()},width:32,height:32})})}})}export{i as t};
-//# sourceMappingURL=reactionStickerPreview-BBg4FJH9.js.map
