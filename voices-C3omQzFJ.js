@@ -1,0 +1,3 @@
+//# allFunctionsCalledOnLoad
+import{a as e}from"./langPack-C8zVjptN.js";import{f as t}from"./buttonMenu-aP2_q7E_.js";import{t as n}from"./anchorCallback-BVYOXR5A.js";import{t as r}from"./privacyTab-CkSFUKra.js";import{t as i}from"./privacySection-MEiJEC41.js";var a=`PrivacyVoiceMessagesInfo`,o=r(`privacy-voices`,r=>{new i({tab:r,title:`PrivacyVoiceMessagesTitle`,inputKey:`inputPrivacyKeyVoiceMessages`,captions:[a,a,a],exceptionTexts:[`PrivacySettingsController.NeverAllow`,`PrivacySettingsController.AlwaysAllow`],appendTo:r.scrollable,managers:r.managers,premiumOnly:!0,premiumCaption:e(`Privacy.VoiceMessagesPremiumCaption`,[n(()=>{t()})]),premiumError:`PrivacySettings.Voice.PremiumError`})});export{o as default};
+//# sourceMappingURL=voices-C3omQzFJ.js.map
